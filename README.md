@@ -183,4 +183,3 @@ These exercises are designed to give you practical experience with Java annotati
 Feel free to explore, modify, and expand upon the base code!
 
 Happy coding! 🚀
-"# S0108-Lambdas" 
